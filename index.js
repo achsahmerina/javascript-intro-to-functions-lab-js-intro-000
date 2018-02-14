@@ -11,5 +11,6 @@ function logWhisper(string){
   console.log('hello')
 }
 function sayHiToGrandma(string){
-  return mixedCase.toLowerCase('I can\'t hear you!')
-}
+  return("I can\'t hear you!"){
+    expect(shout('YES INDEED!')).toEqual("I can\'t hear you!")
+  }
