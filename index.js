@@ -11,5 +11,5 @@ function logWhisper(string){
   console.log('hello')
 }
 function sayHiToGrandma(string){
-  expect(shout('YES INDEED!')).toEqual('I can\'t hear you!')
+  return('I can\'t hear you!')
 }
